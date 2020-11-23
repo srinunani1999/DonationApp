@@ -1,0 +1,163 @@
+2020-11-19 11:24:33,213 Application started. Press Ctrl+C to shut down.
+2020-11-19 11:24:33,232 Hosting environment: Development
+2020-11-19 11:24:33,235 Content root path: E:\Core Projects\DonarService\DonarService
+2020-11-19 11:24:39,641 Http get request initiated
+2020-11-19 11:24:41,945 All the donars were displayed
+2020-11-19 11:35:58,424 Application started. Press Ctrl+C to shut down.
+2020-11-19 11:35:58,446 Hosting environment: Development
+2020-11-19 11:35:58,449 Content root path: E:\Core Projects\DonarService\DonarService
+2020-11-19 11:39:07,700 Http get request initiated for all donars
+2020-11-19 11:39:10,610 All the donars were displayed
+2020-11-19 12:02:14,196 Application started. Press Ctrl+C to shut down.
+2020-11-19 12:02:14,217 Hosting environment: Development
+2020-11-19 12:02:14,220 Content root path: E:\Core Projects\DonarService\DonarService
+2020-11-19 12:03:11,762 Http get request initiated for all donars
+2020-11-19 12:03:22,609 All the donars were displayed
+2020-11-19 12:26:11,498 Application started. Press Ctrl+C to shut down.
+2020-11-19 12:26:11,722 Hosting environment: Development
+2020-11-19 12:26:11,725 Content root path: E:\Core Projects\DonarService\DonarService
+2020-11-20 23:02:07,019 Application started. Press Ctrl+C to shut down.
+2020-11-20 23:02:07,039 Hosting environment: Development
+2020-11-20 23:02:07,041 Content root path: E:\Core Projects\DonarService\DonarService
+2020-11-20 23:02:14,305 Http get request initiated for all donars
+2020-11-20 23:02:23,961 All the donars were displayed
+2020-11-20 23:05:38,050 Application started. Press Ctrl+C to shut down.
+2020-11-20 23:05:38,075 Hosting environment: Development
+2020-11-20 23:05:38,080 Content root path: E:\Core Projects\DonarService\DonarService
+2020-11-20 23:06:38,261 Http get request initiated for all donars
+2020-11-20 23:06:40,962 All the donars were displayed
+2020-11-20 23:12:45,018 Http get request initiated for all donars
+2020-11-20 23:12:45,105 All the donars were displayed
+2020-11-20 23:12:48,907 Http get request initiated for all donars
+2020-11-20 23:12:48,934 All the donars were displayed
+2020-11-20 23:12:52,348 Http get request initiated for all donars
+2020-11-20 23:12:52,357 All the donars were displayed
+2020-11-20 23:12:54,873 Http get request initiated for all donars
+2020-11-20 23:12:54,881 All the donars were displayed
+2020-11-20 23:12:57,423 Http get request initiated for all donars
+2020-11-20 23:12:57,434 All the donars were displayed
+2020-11-20 23:13:33,729 Http get request initiated for all donars
+2020-11-20 23:13:33,741 All the donars were displayed
+2020-11-20 23:29:09,851 Application started. Press Ctrl+C to shut down.
+2020-11-20 23:29:09,883 Hosting environment: Development
+2020-11-20 23:29:09,886 Content root path: E:\Core Projects\DonarService\DonarService
+2020-11-20 23:29:39,055 Http get request initiated for all donars
+2020-11-20 23:29:41,505 All the donars were displayed
+2020-11-20 23:29:59,289 Http post Request Initiated for the donar Id 0
+2020-11-20 23:29:59,289 Obtained Valid Model
+2020-11-20 23:34:13,130 Http get request initiated for all donars
+2020-11-20 23:34:13,159 All the donars were displayed
+2020-11-20 23:35:01,539 Http post Request Initiated for the donar Id 0
+2020-11-20 23:35:01,540 Obtained Valid Model
+2020-11-20 23:36:01,368 Http get request initiated for all donars
+2020-11-20 23:36:01,379 All the donars were displayed
+2020-11-20 23:36:24,140 Http post Request Initiated for the donar Id 0
+2020-11-20 23:36:24,140 Obtained Valid Model
+2020-11-20 23:36:28,590 Http get request initiated for all donars
+2020-11-20 23:36:28,595 All the donars were displayed
+2020-11-20 23:36:55,958 Http post Request Initiated for the donar Id 0
+2020-11-20 23:36:55,958 Obtained Valid Model
+2020-11-20 23:36:58,639 Http get request initiated for all donars
+2020-11-20 23:36:58,647 All the donars were displayed
+2020-11-20 23:37:21,518 Http post Request Initiated for the donar Id 0
+2020-11-20 23:37:21,519 Obtained Valid Model
+2020-11-20 23:37:24,509 Http get request initiated for all donars
+2020-11-20 23:37:24,515 All the donars were displayed
+2020-11-20 23:39:46,184 Http get request initiated for all donars
+2020-11-20 23:39:46,195 All the donars were displayed
+2020-11-20 23:39:49,033 Http get request initiated for all donars
+2020-11-20 23:39:49,039 All the donars were displayed
+2020-11-20 23:40:00,566 Http post Request Initiated for the donar Id 0
+2020-11-20 23:40:00,566 Obtained Valid Model
+2020-11-20 23:40:03,246 Http get request initiated for all donars
+2020-11-20 23:40:03,250 All the donars were displayed
+2020-11-20 23:40:23,328 Http get request initiated for all donars
+2020-11-20 23:40:23,333 All the donars were displayed
+2020-11-20 23:41:08,632 Http get request initiated for all donars
+2020-11-20 23:41:08,637 All the donars were displayed
+2020-11-20 23:41:11,592 Http get request initiated for all donars
+2020-11-20 23:41:11,597 All the donars were displayed
+2020-11-20 23:41:14,119 Http get request initiated for all donars
+2020-11-20 23:41:14,123 All the donars were displayed
+2020-11-20 23:41:16,190 Http get request initiated for all donars
+2020-11-20 23:41:16,194 All the donars were displayed
+2020-11-20 23:41:18,056 Http get request initiated for all donars
+2020-11-20 23:41:18,058 All the donars were displayed
+2020-11-20 23:41:26,504 Http get request initiated for all donars
+2020-11-20 23:41:26,507 All the donars were displayed
+2020-11-20 23:41:34,083 Http get request initiated for all donars
+2020-11-20 23:41:34,085 All the donars were displayed
+2020-11-20 23:47:22,597 Http get request initiated for all donars
+2020-11-20 23:47:22,636 All the donars were displayed
+2020-11-20 23:47:25,278 Http get request initiated for all donars
+2020-11-20 23:47:25,283 All the donars were displayed
+2020-11-20 23:47:35,543 Http post Request Initiated for the donar Id 0
+2020-11-20 23:47:35,543 Obtained Valid Model
+2020-11-20 23:47:38,212 Http get request initiated for all donars
+2020-11-20 23:47:38,215 All the donars were displayed
+2020-11-20 23:50:38,774 Http get request initiated for all donars
+2020-11-20 23:50:38,783 All the donars were displayed
+2020-11-20 23:51:38,927 Http get request initiated for all donars
+2020-11-20 23:51:38,932 All the donars were displayed
+2020-11-20 23:51:51,277 Http post Request Initiated for the donar Id 0
+2020-11-20 23:51:51,277 Obtained Valid Model
+2020-11-20 23:51:53,075 Http get request initiated for all donars
+2020-11-20 23:51:53,078 All the donars were displayed
+2020-11-20 23:51:58,050 Http get request initiated for all donars
+2020-11-20 23:51:58,052 All the donars were displayed
+2020-11-21 00:00:55,257 Http get request initiated for all donars
+2020-11-21 00:00:56,594 All the donars were displayed
+2020-11-21 00:03:43,538 Application started. Press Ctrl+C to shut down.
+2020-11-21 00:03:43,592 Hosting environment: Development
+2020-11-21 00:03:43,595 Content root path: E:\Core Projects\DonarService\DonarService
+2020-11-21 00:04:14,194 Http get request initiated for all donars
+2020-11-21 00:04:16,563 All the donars were displayed
+2020-11-21 00:04:34,037 Http post Request Initiated for the donar Id 0
+2020-11-21 00:04:34,037 Obtained Valid Model
+2020-11-21 00:04:37,114 Http get request initiated for all donars
+2020-11-21 00:04:37,129 All the donars were displayed
+2020-11-21 00:17:45,479 Application started. Press Ctrl+C to shut down.
+2020-11-21 00:17:45,580 Hosting environment: Development
+2020-11-21 00:17:45,581 Content root path: E:\Core Projects\DonarService\DonarService
+2020-11-21 00:19:16,908 Http post Request Initiated for the donar Id 0
+2020-11-21 00:19:16,909 Obtained Valid Model
+2020-11-21 00:19:29,257 Http get request initiated for all donars
+2020-11-21 00:19:29,836 All the donars were displayed
+2020-11-21 00:19:42,945 Http post Request Initiated for the donar Id 0
+2020-11-21 00:19:42,945 Obtained Valid Model
+2020-11-21 00:19:45,003 Http get request initiated for all donars
+2020-11-21 00:19:45,010 All the donars were displayed
+2020-11-21 00:19:52,159 Http get request initiated for all donars
+2020-11-21 00:19:52,172 All the donars were displayed
+2020-11-21 00:20:07,176 Http post Request Initiated for the donar Id 0
+2020-11-21 00:20:07,177 Obtained Valid Model
+2020-11-21 00:24:06,130 Application started. Press Ctrl+C to shut down.
+2020-11-21 00:24:06,146 Hosting environment: Development
+2020-11-21 00:24:06,150 Content root path: E:\Core Projects\DonarService\DonarService
+2020-11-21 00:24:56,090 Http get request initiated for all donars
+2020-11-21 00:24:57,956 All the donars were displayed
+2020-11-21 00:25:01,565 Http get request initiated for all donars
+2020-11-21 00:25:01,635 All the donars were displayed
+2020-11-21 00:25:04,095 Http get request initiated for all donars
+2020-11-21 00:25:04,125 All the donars were displayed
+2020-11-21 00:25:06,763 Http get request initiated for all donars
+2020-11-21 00:25:06,793 All the donars were displayed
+2020-11-21 00:25:24,279 Http post Request Initiated for the donar Id 0
+2020-11-21 00:25:24,280 Obtained Valid Model
+2020-11-21 00:25:28,518 Http get request initiated for all donars
+2020-11-21 00:25:28,525 All the donars were displayed
+2020-11-21 00:25:46,841 Http post Request Initiated for the donar Id 0
+2020-11-21 00:25:46,841 Obtained Valid Model
+2020-11-21 00:33:55,789 Application started. Press Ctrl+C to shut down.
+2020-11-21 00:33:55,830 Hosting environment: Development
+2020-11-21 00:33:55,835 Content root path: E:\Core Projects\DonarService\DonarService
+2020-11-21 00:57:50,932 Application started. Press Ctrl+C to shut down.
+2020-11-21 00:57:50,993 Hosting environment: Development
+2020-11-21 00:57:50,995 Content root path: E:\Core Projects\DonarService\DonarService
+2020-11-21 00:58:54,523 Http get request initiated for all donars
+2020-11-21 00:58:59,668 All the donars were displayed
+2020-11-21 16:34:26,287 Application started. Press Ctrl+C to shut down.
+2020-11-21 16:34:26,311 Hosting environment: Development
+2020-11-21 16:34:26,314 Content root path: E:\Core Projects\DonarService\DonarService
+2020-11-21 16:34:47,803 Http get request initiated for the Id 1
+2020-11-21 16:35:01,775 Object Found
