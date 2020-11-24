@@ -67,5 +67,36 @@ namespace OrganizationServiceTest
             Assert.AreEqual(9, org.Id);
 
         }
+        [Test]
+        public void GetAllFailTest()
+        {
+            var OrganizationsRepo = new OrganizationRepository(orgcontextmock.Object);
+            var orglist = OrganizationsRepo.Get();
+            Assert.AreNotEqual(3, orglist.Count());
+
+
+
+
+        }
+        
+        [Test]
+        public void GetByIdFailTest()
+        {
+            var orgrepo = new OrganizationRepository(orgcontextmock.Object);
+            var org = orgrepo.GetById(2);
+
+            Assert.AreNotEqual(3, org.Id);
+
+        }
+
+        [Test]
+        public void PostOrganizationFailTest()
+        {
+            var orgrepo = new OrganizationRepository(orgcontextmock.Object);
+            var org = orgrepo.Add2(new Organization() { Id = 9, OrganizationName = "tnt", TotalDonations = "10000" });
+
+            Assert.AreNotEqual(10, org.Id);
+
+        }
     }
 }
