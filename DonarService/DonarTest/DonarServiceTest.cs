@@ -96,6 +96,41 @@ namespace DonarTest
             var donartest = donarRepository.Add2(donar);
             Assert.AreEqual(3, donartest.DonorId);
         }
+        [Test]
+        public void GetAllDonarsFailTest()
+        {
+            var donarRepository = new DonarRepository(donarcontextmock.Object);
+            var donars = donarRepository.Get();
+            Assert.AreNotEqual(4, donars.Count());
+        }
+        [Test]
+        public void getDonarByIdFailTest()
+        {
+            var donarRepository = new DonarRepository(donarcontextmock.Object);
+
+            var donartest = donarRepository.GetById(1);
+            Assert.AreNotEqual(2,donartest.DonorId);
+        }
+        [Test]
+        public void PostDonarFailTest()
+        {
+            var donarRepository = new DonarRepository(donarcontextmock.Object);
+
+
+
+            var donar = new DonarService.Models.Donar()
+            {
+                DonorId = 3,
+                Amount = 200,
+                DateOfDonation = DateTime.Parse("10-10-2020"),
+                DonorName = "kodati",
+                organization_Id = 1
+
+
+            };
+            var donartest = donarRepository.Add2(donar);
+            Assert.AreNotEqual(4, donartest.DonorId);
+        }
 
     }
 }
